@@ -2,7 +2,7 @@
     integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
   <link href="../style.css" rel="stylesheet">
 
-<nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-black">
+<nav class="navbar navbar-dark navbar-expand-lg bg-black">
     <div class="container">
       <a class="navbar-brand" href="/">
         <img src="../img/homepage/logo-mark-text-fff.svg" alt="PureDarwin" height="30px" class="pb-1">
